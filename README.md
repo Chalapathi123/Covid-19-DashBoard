@@ -13,5 +13,4 @@ This is a simple tableau dashboard about covid19
 ## Heroku Link
 https://dashboard-covid19-india.herokuapp.com/
 
-## YouTube Link 
 
